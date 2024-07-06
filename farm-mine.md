@@ -21,12 +21,12 @@ The mini app will work in Telegram mobile. Opening this mini can earn money in t
 
 In the mini app, there are user levels with different income generation plans, which includeta
 
-| Level      | Friends (Referrals) | Max Earn Coin |
-| ---------- | ------------------- | ------------- |
-| 1 - Bronze | +3                  | 0.200         |
-| 2 - Silver | +15                 | 0.400         |
-| 3- Gold    | +30                 | 0.600         |
-| -          | -                   | -             |
+| Level      | Friends (Referrals) | Max Earn Coin | Premium Telegram |
+| ---------- | ------------------- | ------------- | ---------------- |
+| 1 - Bronze | <p>+3<br></p>       | 0.200         | +0.300           |
+| 2 - Silver | +15                 | 0.400         | +0.600           |
+| 3- Gold    | +30                 | 0.600         | +0.900           |
+| -          | -                   | -             | -                |
 
 You can also complete daily **Tasks** and collect more coins.
 
