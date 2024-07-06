@@ -23,7 +23,7 @@ In the mini app, there are user levels with different income generation plans, w
 
 | Level      | Friends (Referrals) | Max Earn Coin | Premium Telegram |
 | ---------- | ------------------- | ------------- | ---------------- |
-| 1 - Bronze | <p>+3<br></p>       | 0.200         | +0.300           |
+| 1 - Bronze | +3                  | 0.200         | +0.300           |
 | 2 - Silver | +15                 | 0.400         | +0.600           |
 | 3- Gold    | +30                 | 0.600         | +0.900           |
 | -          | -                   | -             | -                |
