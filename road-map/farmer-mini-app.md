@@ -12,7 +12,9 @@ Roadmap for MiniApp:
 * [ ] Activation of the Tasks section and the secret code
 * [ ] Start awarding awards to the best people
 * [ ] Design and build **jetton** for the whole project
+* [ ] Update Mini App For Support Jetton
 * [ ] Sending airdrop coins to mini app users
+* [ ] Listing Jetton and Add Pool Liquidity and Look LP
 
 
 
