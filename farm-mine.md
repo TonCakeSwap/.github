@@ -21,7 +21,7 @@ The mini app will work in Telegram mobile. Opening this mini can earn money in t
 
 In the mini app, there are user levels with different income generation plans, which includeta:
 
-1 friend invited 0.100 gives you and friend Premium 0.300
+**`1 friend invited 0.100 gives you and friend Premium 0.300`**
 
 | Level      | Friends (Referrals) | Max Earn Coin | Premium Telegram |
 | ---------- | ------------------- | ------------- | ---------------- |
